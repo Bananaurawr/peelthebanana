@@ -7,9 +7,9 @@ export default function Navbar() {
         Aura&apos;s Portfolio
       </Link>
       <div className="flex flex-wrap items-center gap-1 text-sm tracking-wide text-cream">
-        <a href="/#skills" className="rounded-md px-3 py-2 hover:bg-white/10">Skills</a>
-        <a href="/#get-to-know" className="rounded-md px-3 py-2 hover:bg-white/10">Explore</a>
-        <a href="mailto:auranawamadani@gmail.com" className="rounded-md px-3 py-2 hover:bg-white/10">Contact</a>
+        <a href="#skills" className="rounded-md px-3 py-2 hover:bg-white/10">Skills</a>
+        <a href="#get-to-know" className="rounded-md px-3 py-2 hover:bg-white/10">Explore</a>
+        <a href="#contact" className="rounded-md px-3 py-2 hover:bg-white/10">Contact</a>
       </div>
     </nav>
   )

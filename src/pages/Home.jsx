@@ -58,6 +58,23 @@ export default function Home() {
           <ExploreCard icon="✍️" title="Writings" description="Thoughts, notes, and things worth saying" to="/writings" />
         </div>
       </section>
+
+      <footer id="contact" className="border-t border-gold/25 bg-navy px-6 py-12 text-cream md:px-20">
+        <div className="mx-auto flex max-w-5xl flex-col items-center justify-between gap-6 text-center md:flex-row md:text-left">
+          <div>
+            <h2 className="font-serif text-2xl text-gold-light">Let&apos;s connect</h2>
+            <p className="mt-1 text-sm text-muted">You can reach me here.</p>
+          </div>
+          <div className="flex flex-wrap justify-center gap-3">
+            <a href="mailto:auranawamadani@gmail.com" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
+              auranawamadani@gmail.com
+            </a>
+            <a href="https://www.instagram.com/bananaurawr/" target="_blank" rel="noreferrer" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
+              Instagram @bananaurawr
+            </a>
+          </div>
+        </div>
+      </footer>
     </main>
   )
 }
