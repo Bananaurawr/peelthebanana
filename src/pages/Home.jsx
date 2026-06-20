@@ -71,7 +71,7 @@ export default function Home() {
             <a href="https://www.instagram.com/auran.a/" target="_blank" rel="noreferrer" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
               Instagram @auran.a
             </a>
-            <a href="https://www.linkedin.com/aura-amrah/" target="_blank" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
+            <a href="https://www.linkedin.com/in/aura-amrah/" target="_blank" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
               LinkedIn: Aura Amrah
             </a>
           </div>
