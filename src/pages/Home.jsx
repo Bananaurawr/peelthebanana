@@ -31,7 +31,6 @@ export default function Home() {
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 md:justify-start">
-            <a href="https://www.linkedin.com/in/aura-amrah/" target="_blank" className="rounded-lg border border-transparent bg-navy px-6 py-3 text-sm font-medium tracking-wide text-cream transition hover:-translate-y-1 hover:border-gold hover:shadow-lg">LinkedIn</a>
             <a href="https://github.com/Bananaurawr" target="_blank" className="rounded-lg border border-transparent bg-navy px-6 py-3 text-sm font-medium tracking-wide text-cream transition hover:-translate-y-1 hover:border-gold hover:shadow-lg">GitHub</a>
           </div>
         </div>
@@ -69,8 +68,11 @@ export default function Home() {
             <a href="mailto:auranawamadani@gmail.com" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
               auranawamadani@gmail.com
             </a>
-            <a href="https://www.instagram.com/bananaurawr/" target="_blank" rel="noreferrer" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
-              Instagram @bananaurawr
+            <a href="https://www.instagram.com/auran.a/" target="_blank" rel="noreferrer" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
+              Instagram @auran.a
+            </a>
+            <a href="https://www.linkedin.com/aura-amrah/" target="_blank" className="rounded-lg border border-cream/20 px-4 py-2 text-sm transition hover:border-gold hover:bg-gold/15">
+              LinkedIn: Aura Amrah
             </a>
           </div>
         </div>
